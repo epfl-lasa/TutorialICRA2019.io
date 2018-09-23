@@ -1,14 +1,14 @@
 # Site settings
-name: RSS-2018 tutorial on dynamical systems based learning from demonstration
+name: ICRA-2018 tutorial on dynamical systems based learning from demonstration
 email: sina.mirrazavi@epfl.ch
 author: Seyed Sina Mirrazavi Salehian       
 
-keywords: RSS, Tutorial, 2018, learning from demonstration,  dynamical systems
-description: This website provides the basic information regarding the RSS-2018 tutorial on dynamical systems based learning from demonstration.
+keywords: ICRA, Tutorial, 2018, learning from demonstration,  dynamical systems
+description: This website provides the basic information regarding the ICRA-2018 tutorial on dynamical systems based learning from demonstration.
 
 # Only use this if you are serving your site via Github Pages
 github:
- url: "https://epfl-lasa.github.io/TutorialRSS2018.io"
+ url: "https://epfl-lasa.github.io/TutorialICRA2018.io"
  #url: "http://localhost:4000/"
 
 header: yes
