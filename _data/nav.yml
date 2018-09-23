@@ -1,0 +1,45 @@
+- title: "home"
+  external: "https://epfl-lasa.github.io/TutorialRSS2018.io/"
+
+- title: "Program"
+  href: "/documentation/Overview.html"
+
+- title: "documentation"
+  subcategories:
+    - subtitle: "Introduction"
+      subhref: "/documentation/Introduction.html"
+    - subtitle: "Learning Dynamical Systems"
+      subhref: "/documentation/Learning.html"
+    - subtitle: "Obstacle Avoidance"
+      subhref: "/documentation/Modulation_obs.html"
+    - subtitle: "From Free Space to Contact"
+      subhref: "/documentation/Modulation_tran.html"
+    - subtitle: "Impedance/Hybrid Force Control"
+      subhref: "/documentation/Impedance.html"
+
+- title: "Exercises"
+  subcategories:
+    - subtitle: "How to Setup"
+      subhref: "/documentation/setup.html"
+    - subtitle: "Exercise 1"
+      subhref: "/documentation/Matlab_1.html"
+    - subtitle: "Exercise 2"
+      subhref: "/documentation/Matlab_2.html"
+
+- title: "Demos"
+  href: "/documentation/demos.html"
+      
+- title: "About us"
+  href: "/documentation/about.html"
+  
+  
+      
+#- title: "external"
+#  external: "http://www.jekyllrb.com"
+  
+#- title: "Misc"
+#  external-subcategories:
+#    - subtitle: "Jekyll forums"
+#      subhref: "https://talk.jekyllrb.com/"
+#    - subtitle: "Source Code"
+ #     subhref: "https://github.com/chrisanthropic/slim-pickins-jekyll-theme"
