@@ -16,7 +16,7 @@ header_xl: images/Header.png
 </td>
 <td style="width: 575px; height: 83.9333px;">
 <div class="speaker-name">Nadia Figueroa</div>
-<div class="speaker-affiliation"><it>PhD Student</it></div>
+<div class="speaker-affiliation">[PhD Student]</div>
 <div class="speaker-affiliation">Learning Algorithms and Systems Laboratory, EPFL</div>
 <div class="speaker-affiliation">Email: <a href="mailto:nadia.figueroafernandez@epfl.ch">nadia.figueroafernandez@epfl.ch</a></div>
 <div class="speaker-affiliation">Webpage: <a href="http://lasa.epfl.ch/people/member.php?SCIPER=238387">http://lasa.epfl.ch/people/member.php?SCIPER=238387</a></div>
@@ -35,7 +35,7 @@ header_xl: images/Header.png
 </td>
 <td style="width: 575px; height: 83.9333px;">
 <div class="speaker-name">Seyed Sina Mirrazavi Salehian</div>
-<div class="speaker-affiliation"><it>Postdoctoral Fellow</it></div>
+<div class="speaker-affiliation">[Postdoctoral Fellow]</div>
 <div class="speaker-affiliation">Learning Algorithms and Systems Laboratory, EPFL</div>
 <div class="speaker-affiliation">Email: <a href="mailto:sina.mirrazavi@epfl.ch">sina.mirrazavi@epfl.ch</a></div>
 <div class="speaker-affiliation">Webpage: <a href="http://lasa.epfl.ch/people/member.php?SCIPER=233855">http://lasa.epfl.ch/people/member.php?SCIPER=233855</a></div>
@@ -54,7 +54,7 @@ header_xl: images/Header.png
 </td>
 <td style="width: 575px; height: 83.9333px;">
 <div class="speaker-name">Lukas Huber</div>
-<div class="speaker-affiliation"><it>Research Assistant</it></div>
+<div class="speaker-affiliation">[Research Assistant]</div>
 <div class="speaker-affiliation">Learning Algorithms and Systems Laboratory, EPFL</div>
 <div class="speaker-affiliation">Email: <a href="mailto:lukas.huber@epfl.ch">lukas.huber@epfl.ch</a></div>
 </td>
@@ -72,7 +72,7 @@ header_xl: images/Header.png
 </td>
 <td style="width: 500px; height: 83.9333px;">
 <div class="speaker-name">Aude Billard</div>
-<div class="speaker-affiliation"><it>Professor and Lab Director</it></div>
+<div class="speaker-affiliation">[Professor and Lab Director]</div>
 <div class="speaker-affiliation">Learning Algorithms and Systems Laboratory, EPFL</div>
 <div class="speaker-affiliation">Email: <a href="mailto:aude.billard@epfl.ch">aude.billard@epfl.ch</a></div>
 <div class="speaker-affiliation">Webpage: <a href="http://lasa.epfl.ch/people/member.php?SCIPER=115671">http://lasa.epfl.ch/people/member.php?SCIPER=115671</a></div>
