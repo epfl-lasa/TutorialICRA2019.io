@@ -11,8 +11,7 @@ header_med: images/headergifs.gif
 header_large: images/headergifs.gif
 header_xl: images/headergifs.gif
 --- 
-<h1>Videos of Robotic Implementations of Topics in each Lecture</h1>
-
+<h1>Robotic Implementations of Topics in each Lecture</h1>
 
 ## Videos for Lecture 1 (DS-Learning)
 - Learning Robot Manipulation Tasks [1]
