@@ -23,6 +23,7 @@ header_xl: images/headergifs.gif
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5EjMoMuOrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<br>
 
 ### Videos for Lecture 2 (DS-Modulation)
 - DS Modulation for Obstacle Avoidance [2]
@@ -35,10 +36,13 @@ header_xl: images/headergifs.gif
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhfBBMH4XVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<br>
+
 ### Videos for Lecture 3 (DS-based Impedance Control)
 - DS-based Task Stiffness Parametrization [4]    
 - DS-based Motion and Force Generation [5]    
 
+<br>
 
 ### References
 [1] Figueroa, N. and Billard, A. (2018) "A Physically-Consistent Bayesian Non-Parametric Mixture Model for Dynamical System Learning". In Proceedings of the 2nd Conference on Robot Learning (CoRL).  
