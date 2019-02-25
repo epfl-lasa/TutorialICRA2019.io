@@ -14,7 +14,7 @@ header_xl: images/headergifs.gif
 # Videos of Robotic Implementations of Topics in each Lecture
 
 
-### Videos for Lecture 1 (DS-Learning)
+## Videos for Lecture 1 (DS-Learning)
 - Learning Robot Manipulation Tasks [1]
 <p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HfV4jbJBWTQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ header_xl: images/headergifs.gif
 
 <br>
 
-### Videos for Lecture 2 (DS-Modulation)
+## Videos for Lecture 2 (DS-Modulation)
 - DS Modulation for Obstacle Avoidance [2]
 <p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HbNxEVP3pJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,7 +40,7 @@ header_xl: images/headergifs.gif
 
 <br>
 
-### Videos for Lecture 3 (DS-based Impedance Control)
+## Videos for Lecture 3 (DS-based Impedance Control)
 - DS-based Task Stiffness Parametrization [4]    
 - DS-based Motion and Force Generation [5]    
 
