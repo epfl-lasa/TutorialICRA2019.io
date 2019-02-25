@@ -11,27 +11,27 @@ header_med: images/headergifs.gif
 header_large: images/headergifs.gif
 header_xl: images/headergifs.gif
 --- 
-
+## Videos of Robotic Implementations of Topics in each Lecture
 ### Videos for Lecture 1 (DS-Learning)
 - Learning Robot Manipulation Tasks [1]
-<p align="center">
+<p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HfV4jbJBWTQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
 - Learning Wheelchair Navigation Tasks [1]
-<p align="center">
+<p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r5EjMoMuOrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
 ### Videos for Lecture 2 (DS-Modulation)
 - DS Modulation for Obstacle Avoidance [2]
-<p align="center">
+<p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HbNxEVP3pJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 - DS Modulation for Contact/Non-Contact Transitions [3]
-<p align="center">
+<p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhfBBMH4XVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
