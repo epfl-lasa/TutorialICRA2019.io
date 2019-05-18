@@ -23,7 +23,7 @@ cd icra19-lfd-tutorial-exercises
 cd Contact Noncontact transitions
 ```
 
-<p>Then just simply run``` gui_Code.m``` in Matlab.<p>
+<p>Then just simply run gui_Code.m in Matlab.<p>
 <h3><em>Running the GUI</em></h3>
 <p>A guided video explaining how to use the GUI, can be found in the following youtube link.</p>
 
