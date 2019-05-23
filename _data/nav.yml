@@ -18,13 +18,7 @@
       subhref: "/documentation/Impedance.html"
 
 - title: "Exercises"
-  subcategories:
-    - subtitle: "How to Setup"
-      subhref: "/documentation/setup.html"
-    - subtitle: "Exercise 1"
-      subhref: "/documentation/Matlab_1.html"
-    - subtitle: "Exercise 2"
-      subhref: "/documentation/Matlab_2.html"
+  href: "/documentation/setup.html"
 
 - title: "Demos"
   href: "/documentation/demos.html"
