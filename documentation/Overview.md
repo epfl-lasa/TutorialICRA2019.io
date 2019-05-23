@@ -26,7 +26,7 @@ header_xl: images/headergifs.gif
 </thead>
 <tbody>
 <tr class="row100">
-<td class="column100 column1" data-column="column1">09:00-90:10</td>
+<td class="column100 column1" data-column="column1">09:00-09:10</td>
 <!-- <td class="column100 column2" data-column="column2"> <a href="Introduction.html">Introduction</a> </td> -->
 <td class="column100 column2" data-column="column2"> Introduction </td>
 <td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
@@ -137,15 +137,17 @@ header_xl: images/headergifs.gif
 </div>
 </div>
 
+The exercises can be downloaded from following git repository:
+<a href="https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises"> https://github.com/epfl-lasa/icra19-lfd-tutorial-exercises </a>
 
-Note: The texts in the table are links. If you want to have more information, please click on them.
+<!-- Note: The texts in the table are links. If you want to have more information, please click on them. -->
 
 <!--===============================================================================================-->	
-<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!-- <script src="vendor/jquery/jquery-3.2.1.min.js"></script> -->
 <!--===============================================================================================-->
-<script src="vendor/bootstrap/js/popper.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!-- <script src="vendor/bootstrap/js/popper.js"></script> -->
+<!-- <script src="vendor/bootstrap/js/bootstrap.min.js"></script> -->
 <!--===============================================================================================-->
-<script src="vendor/select2/select2.min.js"></script>
+<!-- <script src="vendor/select2/select2.min.js"></script> -->
 <!--===============================================================================================-->
-<script src="js/main.js"></script>
+<!-- <script src="js/main.js"></script> -->

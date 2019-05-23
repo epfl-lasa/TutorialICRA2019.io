@@ -1,1 +1,3 @@
-This webpage is based on slim-pickins-jekyll-theme
+The tutorial website can be found here:
+https://epfl-lasa.github.io/TutorialICRA2019.io/
+
