@@ -13,7 +13,7 @@ header_xl: images/headergifs.gif
 --- 
 <h1>Robotic Implementations of Topics in each Lecture</h1>
 
-## Videos for Lecture 1 (DS-Learning)
+## Learning of Dynamical Systems (Lecture 1)
 - Learning Robot Manipulation Tasks [1]
 <p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HfV4jbJBWTQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -26,31 +26,32 @@ header_xl: images/headergifs.gif
 
 <br>
 
-## Videos for Lecture 2 (DS-Modulation)
-- DS Modulation for Obstacle Avoidance [2]
+## Modulation of Dynamical Systems (Lecture 2)
+- Modulation for Obstacle Avoidance [2]
 <p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HbNxEVP3pJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-- DS Modulation for Contact/Non-Contact Transitions [3]
+- Modulation for Contact/Non-Contact Transitions [3]
 <p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhfBBMH4XVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <br>
 
-## Videos for Lecture 3 (DS-based Impedance Control)
-- Passive Interaction Control with Dynamical Systems [4]
+## Dynamical System based Impedance Control (Lecture 3)
+- Force Generation with Dynamical Systems [4]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lz0uxUEVc3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Passive Interaction Control with Dynamical Systems [5]
 <p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4fnPVRWWEU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-- DS-based Task Stiffness Parametrization [5]    
-- DS-based Motion and Force Generation [6]    
 
 <br>
 
 ### References
 [1] Figueroa, N. and Billard, A. (2018) "A Physically-Consistent Bayesian Non-Parametric Mixture Model for Dynamical System Learning". In Proceedings of the 2nd Conference on Robot Learning (CoRL).  
 [2] Huber, L., Billard, A. and Slotine, J.-J. (2019) Avoidance of Convex and Concave Obstacles with Convergence ensured through Contraction. IEEE Robotics and Automation Letters (RA-L).  
-[3] Mirrazavi Salehian, S. S. and Billard, A. (2018) A Dynamical System Based Approach for Controlling Robotic Manipulators During Non-contact/Contact Transitions. IEEE Robotics and Automation Letters (RA-L).    
-[4] Kronander, K. and Billard, A. (2016) Passive Interaction Control with Dynamical Systems. IEEE Robotics and Automation Letters, vol. 1, iss. 1, Jan. 2016, pp. 106-113. selected for presentation at ICRA 2016.   
+[3] Mirrazavi Salehian, S. S. and Billard, A. (2018) A Dynamical System Based Approach for Controlling Robotic Manipulators During Non-contact/Contact Transitions. IEEE Robotics and Automation Letters (RA-L).
+[4] Amanhoud, W., Khoramshahi, M. and Billard, A. (2019) “A Dynamical System Approach to Motion and Force Generation in Contact Tasks.” In Proceedings of Robotics, Science and Systems (RSS).
+[5] Kronander, K. and Billard, A. (2016) Passive Interaction Control with Dynamical Systems. IEEE Robotics and Automation Letters, vol. 1, iss. 1, Jan. 2016, pp. 106-113. selected for presentation at ICRA 2016.   
