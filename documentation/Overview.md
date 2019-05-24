@@ -125,7 +125,7 @@ header_xl: images/headergifs.gif
 
 
 <tr class="row100">
-<td class="column100 column1" data-column="column1">12:20:12:30</td>
+<td class="column100 column1" data-column="column1">12:05-12:30</td>
 <td class="column100 column2" data-column="column2"><a href="Discussion.html"> Discussion and Q&A</a>  </td>
 <td class="column100 column3" data-column="column3"><a href="about.html"> -</a></td>
 <td class="column100 column4" data-column="column4">No</td>
