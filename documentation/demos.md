@@ -42,9 +42,11 @@ header_xl: images/headergifs.gif
 ## Dynamical System based Impedance Control (Lecture 3)
 - Force Generation with Dynamical Systems [4]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lz0uxUEVc3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - Passive Interaction Control with Dynamical Systems [5]
 <p align="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4fnPVRWWEU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </p>
 
 <br>
