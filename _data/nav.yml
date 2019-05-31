@@ -16,7 +16,7 @@
       subhref: "/documentation/Modulation_tran.html"
     - subtitle: "Impedance Control and Force Generation"
       subhref: "/documentation/Impedance.html"
-    - subtitle: "Impedance/Locally Active Globally Stable Dynamical Systems"
+    - subtitle: "Locally Active Globally Stable Dynamical Systems"
       subhref: "/documentation/LAGS.html"
 
 - title: "Exercises"
