@@ -18,4 +18,4 @@ header_xl: images/headergifs.gif
 <div style="line-height: 50%">    
 <br>    
 </div> 
-<p style="text-align: center;;font-size:90%"> Click <a href="https://www.dropbox.com/sh/ph24oa6hwx002mv/AAAUkAM9mCtImNUqr260VhhHa?dl=0"> <font color="red"> here </font> </a> to download a pdf or read-only version of the ppt presentation from dropbox.</p>
+<p style="text-align: left;;font-size:90%"> Click <a href="https://www.dropbox.com/sh/ph24oa6hwx002mv/AAAUkAM9mCtImNUqr260VhhHa?dl=0"> <font color="red"> here </font> </a> to download a pdf or read-only version of the ppt presentation from dropbox.</p>
