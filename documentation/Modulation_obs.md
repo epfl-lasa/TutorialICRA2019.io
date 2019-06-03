@@ -24,3 +24,6 @@ header_xl: images/headergifs.gif
 <br>    
 </div> 
 <p style="text-align: left;;font-size:90%"> Click <a href="https://www.dropbox.com/sh/ph24oa6hwx002mv/AAAUkAM9mCtImNUqr260VhhHa?dl=0"> <font color="red"> here </font> </a> to download a pdf or read-only version of the ppt presentation from dropbox.</p>
+
+<p> To run the online tutorial, follow the following link:
+  </a> </strong> from <strong><a href="https://mybinder.org/v2/gh/hubernikus/dynamic_obstacle_avoidance_python/master?filepath=notebook" target="_blank">https://mybinder.org/v2/gh/hubernikus/dynamic_obstacle_avoidance_python/master?filepath=notebook</a>
