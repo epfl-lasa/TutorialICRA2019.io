@@ -5,7 +5,8 @@ GEM
       Platform (>= 0.4.0)
       open4
     Platform (0.4.0)
-    addressable (2.4.0)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     aws-sdk (2.10.125)
       aws-sdk-resources (= 2.10.125)
     aws-sdk-core (2.10.125)
@@ -68,6 +69,7 @@ GEM
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     progress (3.4.0)
+    public_suffix (4.0.6)
     rake (12.3.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
